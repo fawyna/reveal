@@ -39,7 +39,7 @@ var Reveal = (function(){
 			history: false,
 
 			// Enable keyboard shortcuts for navigation
-			keyboard: true,
+			keyboard: false,
 
 			// Enable the slide overview mode
 			overview: true,
